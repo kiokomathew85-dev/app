@@ -39,7 +39,7 @@ This project demonstrates core web development concepts such as API integration,
 ##  API Used
 
 * Free Dictionary API
-  https://api.dictionaryapi.dev/
+  https://kiokomathew85-dev.github.io/app/
 
 ---
 
@@ -88,6 +88,6 @@ Mathew kioko
 
 ---
 
-## 🔗 GitHub Repository
+##  GitHub Repository
 
-https://github.com/your-username/wordly-spa
+
